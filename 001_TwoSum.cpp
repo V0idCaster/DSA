@@ -3,6 +3,7 @@
 #include <unordered_map>
 using namespace std;
 
+//this part of code is for leetcode from here
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
@@ -17,6 +18,7 @@ public:
         return {};
     }
 };
+// to there
 
 int main() {
     Solution sol;
